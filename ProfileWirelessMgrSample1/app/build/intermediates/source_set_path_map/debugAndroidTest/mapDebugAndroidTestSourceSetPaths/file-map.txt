@@ -1,0 +1,4 @@
+com.symbol.profilewirelessmgrsample1.test.app-androidTest-0 C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileWirelessMgrSample1\app\build\generated\res\resValues\androidTest\debug
+com.symbol.profilewirelessmgrsample1.test.app-mergeDebugAndroidTestResources-1 C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileWirelessMgrSample1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.symbol.profilewirelessmgrsample1.test.app-mergeDebugAndroidTestResources-2 C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileWirelessMgrSample1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.symbol.profilewirelessmgrsample1.test.app-debugAndroidTest-3 C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileWirelessMgrSample1\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

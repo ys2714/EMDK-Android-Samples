@@ -1,0 +1,17 @@
+com.symbol.profilewirelessmgrsample1:style/AppTheme = 0x7f070000
+com.symbol.profilewirelessmgrsample1:string/app_name = 0x7f060001
+com.symbol.profilewirelessmgrsample1:string/action_settings = 0x7f060000
+com.symbol.profilewirelessmgrsample1:menu/main = 0x7f040000
+com.symbol.profilewirelessmgrsample1:string/hello_world = 0x7f060002
+com.symbol.profilewirelessmgrsample1:mipmap/ic_launcher = 0x7f050000
+com.symbol.profilewirelessmgrsample1:layout/activity_main = 0x7f030000
+com.symbol.profilewirelessmgrsample1:dimen/activity_horizontal_margin = 0x7f010000
+com.symbol.profilewirelessmgrsample1:id/textViewStatus = 0x7f020007
+com.symbol.profilewirelessmgrsample1:id/textView2 = 0x7f020006
+com.symbol.profilewirelessmgrsample1:id/textView1 = 0x7f020005
+com.symbol.profilewirelessmgrsample1:id/radioGroupWireless = 0x7f020004
+com.symbol.profilewirelessmgrsample1:dimen/activity_vertical_margin = 0x7f010001
+com.symbol.profilewirelessmgrsample1:id/radioEnable = 0x7f020003
+com.symbol.profilewirelessmgrsample1:id/radioDisable = 0x7f020002
+com.symbol.profilewirelessmgrsample1:id/buttonSet = 0x7f020001
+com.symbol.profilewirelessmgrsample1:id/action_settings = 0x7f020000
