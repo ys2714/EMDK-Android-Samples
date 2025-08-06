@@ -13,7 +13,6 @@ import com.symbol.emdk.EMDKManager;
 import com.symbol.emdk.EMDKResults;
 import com.symbol.emdk.ProfileManager;
 import com.symbol.emdk.EMDKManager.EMDKListener;
-import com.symbol.profilegprssample1.R;
 
 import android.os.AsyncTask;
 import android.os.Bundle;

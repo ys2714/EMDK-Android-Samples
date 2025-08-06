@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+dimen button_pad
+id EditTextAccessPoint
+id EditTextPassword
+id EditTextUserName
+id TextViewPassword
+id TextViewUserName
+id action_settings
+id buttonSet
+id checkBoxMakeDefault
+id checkBoxReplace
+id editTextAPN
+id linearLayout1
+id radio0
+id radio1
+id radioGroup1
+id textView4
+id textViewAPN
+id textViewAPNAction
+id textViewAccessPoint
+id textViewStatus
+layout activity_main
+menu main
+mipmap ic_launcher
+string action_settings
+string app_name
+string hello_world
+style AppTheme
