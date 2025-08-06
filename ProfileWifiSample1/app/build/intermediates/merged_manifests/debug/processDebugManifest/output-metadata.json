@@ -1,10 +1,10 @@
 {
   "version": 3,
   "artifactType": {
-    "type": "APK",
+    "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.symbol.profilepowermgrsample1",
+  "applicationId": "com.symbol.profilewifisample1",
   "variantName": "debug",
   "elements": [
     {
@@ -13,9 +13,8 @@
       "attributes": [],
       "versionCode": 10,
       "versionName": "7.3.2",
-      "outputFile": "app-debug.apk"
+      "outputFile": "AndroidManifest.xml"
     }
   ],
-  "elementType": "File",
-  "minSdkVersionForDexing": 24
+  "elementType": "File"
 }

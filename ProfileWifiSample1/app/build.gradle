@@ -1,13 +1,14 @@
 apply plugin: 'com.android.application'
 
 android {
-    compileSdkVersion 26
+    compileSdkVersion 36
+    namespace "com.symbol.profilewifisample1"
     defaultConfig {
         applicationId "com.symbol.profilewifisample1"
         minSdkVersion 24
-        targetSdkVersion 26
+        targetSdkVersion 33
         versionCode 10
-        versionName "7.3.0"
+        versionName "7.3.2"
     }
     buildTypes {
         release {
@@ -17,5 +18,5 @@ android {
     }
 }
 dependencies {
-    compileOnly 'com.symbol:emdk:+'
+    compileOnly 'com.symbol:emdk:11.0.134'
 }
