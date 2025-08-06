@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.symbol.emdk.simulscansample1.app-mergeDebugResources-3:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YS2714\\.gradle\\caches\\8.14.3\\transforms\\f851e1d4ab02852ec61422f3ef100491\\transformed\\appcompat-v7-23.0.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "286",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "558"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
