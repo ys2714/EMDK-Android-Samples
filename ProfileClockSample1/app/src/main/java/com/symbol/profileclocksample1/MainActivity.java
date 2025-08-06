@@ -182,7 +182,8 @@ public class MainActivity extends Activity implements EMDKListener{
                 "<?xml version=\"1.0\" encoding=\"utf-8\"?>" +
                         "<characteristic type=\"Profile\">" +
                         "<parm name=\"ProfileName\" value=\"ClockProfile-1\"/>" +
-                        "<characteristic type=\"Clock\" version=\"0.2\">" +
+                        "<characteristic type=\"Clock\" version=\"4.2\">" +
+                        "<parm name=\"AutoTime\" value=\"false\">" +
                         "<parm name=\"TimeZone\" value=\"" + timeZone + "\"/>" +
                         "<parm name=\"Date\" value=\"" + date + "\"/>" +
                         "<parm name=\"Time\" value=\"" + time + "\"/>" +
