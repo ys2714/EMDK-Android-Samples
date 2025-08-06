@@ -1,0 +1,21 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id action_settings
+id buttonSet
+id editTextName
+id radioGroupApp
+id radioInstall
+id radioUninstall
+id radioUpgrade
+id textView2
+id textViewHelp
+id textViewStatus
+layout activity_main
+menu main
+mipmap ic_launcher
+string action_settings
+string app_name
+string hello_world
+style AppTheme

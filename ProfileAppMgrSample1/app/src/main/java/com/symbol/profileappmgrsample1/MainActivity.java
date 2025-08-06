@@ -9,6 +9,7 @@ import java.io.StringReader;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
+import com.symbol.profileappmgrsample1.R;
 import com.symbol.emdk.EMDKManager;
 import com.symbol.emdk.EMDKResults;
 import com.symbol.emdk.ProfileManager;
