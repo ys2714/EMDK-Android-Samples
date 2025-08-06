@@ -2,7 +2,7 @@
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.symbol.profilegprsmgrsample1"
 4    android:versionCode="11"
-5    android:versionName="7.3.2" >
+5    android:versionName="7.3.3" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="24"
@@ -22,33 +22,34 @@
 17-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:8:9-43
 18        android:label="@string/app_name"
 18-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:9:9-41
-19        android:theme="@style/AppTheme" >
-19-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:10:9-40
-20        <uses-library android:name="com.symbol.emdk" />
-20-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:12:9-56
-20-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:12:23-53
-21
-22        <activity
-22-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:14:9-24:20
-23            android:name="com.symbol.profilegprsmgrsample1.MainActivity"
-23-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:16:13-73
-24            android:exported="true"
-24-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:15:13-36
-25            android:label="@string/app_name"
-25-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:18:13-45
-26            android:screenOrientation="portrait" >
-26-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:17:13-49
-27            <intent-filter>
-27-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:19:13-23:29
-28                <action android:name="android.intent.action.MAIN" />
-28-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:20:17-69
-28-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:20:25-66
-29
-30                <category android:name="android.intent.category.LAUNCHER" />
-30-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:22:17-77
-30-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:22:27-74
-31            </intent-filter>
-32        </activity>
-33    </application>
-34
-35</manifest>
+19        android:testOnly="true"
+20        android:theme="@style/AppTheme" >
+20-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:10:9-40
+21        <uses-library android:name="com.symbol.emdk" />
+21-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:12:9-56
+21-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:12:23-53
+22
+23        <activity
+23-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:14:9-24:20
+24            android:name="com.symbol.profilegprsmgrsample1.MainActivity"
+24-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:16:13-73
+25            android:exported="true"
+25-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:15:13-36
+26            android:label="@string/app_name"
+26-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:18:13-45
+27            android:screenOrientation="portrait" >
+27-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:17:13-49
+28            <intent-filter>
+28-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:19:13-23:29
+29                <action android:name="android.intent.action.MAIN" />
+29-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:20:17-69
+29-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:20:25-66
+30
+31                <category android:name="android.intent.category.LAUNCHER" />
+31-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:22:17-77
+31-->C:\Users\YS2714\Dev\EMDK-Android-Samples\ProfileGprsMgrSample1\app\src\main\AndroidManifest.xml:22:27-74
+32            </intent-filter>
+33        </activity>
+34    </application>
+35
+36</manifest>
