@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id action_settings
+id buttonScan
+id checkBoxCode128
+id checkBoxCode39
+id checkBoxEAN13
+id checkBoxEAN8
+id scrollViewData
+id spinnerScannerDevices
+id textViewD
+id textViewData
+id textViewS
+id textViewSD
+id textViewSS
+id textViewStatus
+layout activity_main
+layout activity_main_landscape
+menu main
+mipmap ic_launcher
+string action_settings
+string app_name
+string hello_world
+style AppTheme
