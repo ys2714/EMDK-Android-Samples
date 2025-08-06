@@ -1,0 +1,35 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id action_settings
+id address
+id addressTitle
+id alwaysscan
+id logs
+id name
+id nameTitle
+id scanDataTitle
+id scanDataType
+id scanandpair
+id scanandunpair
+id scrollView1
+id triggerType
+layout activity_main
+layout simple_spinner_item
+menu main
+mipmap ic_launcher
+string action_settings
+string alwaysScan
+string app_name
+string deviceName
+string deviceNameHint
+string hello_world
+string macAddress
+string macAddressHint
+string pairButton
+string scanDataType
+string statusText
+string unpairButton
+string useHardTrigger
+style AppTheme

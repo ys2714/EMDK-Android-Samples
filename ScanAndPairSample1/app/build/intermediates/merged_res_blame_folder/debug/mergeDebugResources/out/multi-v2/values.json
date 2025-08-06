@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.symbol.scanandpairsample1.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\ScanAndPairSample1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    },
+                    "to": {
+                        "startLines": "17",
+                        "startColumns": "4",
+                        "startOffsets": "865",
+                        "endLines": "19",
+                        "endColumns": "12",
+                        "endOffsets": "958"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\ScanAndPairSample1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\ScanAndPairSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,8,3,10,12,4,11,13,6,9,14,7,15",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "171,319,59,428,543,117,484,601,225,371,663,270,711",
+                        "endColumns": "52,50,56,54,56,52,57,60,43,55,46,47,55",
+                        "endOffsets": "219,365,111,478,595,165,537,657,264,422,705,313,762"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,273,330,385,442,495,553,614,658,714,761,809",
+                        "endColumns": "52,50,56,54,56,52,57,60,43,55,46,47,55",
+                        "endOffsets": "217,268,325,380,437,490,548,609,653,709,756,804,860"
+                    }
+                }
+            ]
+        }
+    ]
+}

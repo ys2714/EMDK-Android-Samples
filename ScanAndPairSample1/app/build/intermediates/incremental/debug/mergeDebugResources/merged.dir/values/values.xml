@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">10dp</dimen>
+    <dimen name="activity_vertical_margin">10dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="alwaysScan">Always Scan</string>
+    <string name="app_name">ScanAndPair Sample1</string>
+    <string name="deviceName">Bluetooth Name:</string>
+    <string name="deviceNameHint">MPOS-64001019</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="macAddress">Bluetooth Address:</string>
+    <string name="macAddressHint">8C:DE:52:12:A2:56</string>
+    <string name="pairButton">Pair</string>
+    <string name="scanDataType">ScanData Type:</string>
+    <string name="statusText">Status:</string>
+    <string name="unpairButton">Unpair</string>
+    <string name="useHardTrigger">Hard Trigger</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style>
+</resources>
