@@ -1,0 +1,20 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id ChecBoxfastcharge
+id CradleInfoButton1
+id Diagnosticdata
+id FlashLEDButton1
+id PStextView
+id UnlockButton1
+id action_settings
+id checkBox1
+id widget37
+layout activity_main
+menu main
+mipmap ic_launcher
+string action_settings
+string app_name
+string hello_world
+style AppTheme
