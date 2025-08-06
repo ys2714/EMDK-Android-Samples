@@ -1,0 +1,30 @@
+R_DEF: Internal format may change without notice
+local
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id action_settings
+id activity_main
+id btnRead
+id btnWrite
+id layoutButtons
+id lblStatus
+id lblWriteDataToSend
+id spaceAfterButtons
+id spaceAfterPort
+id spaceBeforeButtons
+id spinnerPorts
+id txtDataToSend
+id txtLabelSelectSerialPort
+id txtStatus
+layout activity_main
+menu main
+mipmap ic_launcher
+string action_settings
+string app_name
+string buttonRead
+string buttonWrite
+string editBoxTitle
+string hello_world
+string statusData
+string statusTitle
+style AppTheme

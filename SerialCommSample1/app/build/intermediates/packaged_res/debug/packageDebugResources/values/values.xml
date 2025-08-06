@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SerialCommSample1</string>
+    <string name="buttonRead">Read</string>
+    <string name="buttonWrite">Write</string>
+    <string name="editBoxTitle">Write Data:</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="statusData">Status:</string>
+    <string name="statusTitle">Status:</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style>
+</resources>

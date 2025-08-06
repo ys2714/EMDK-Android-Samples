@@ -1,0 +1,4 @@
+com.symbol.serialcommsample1.test.app-androidTest-0 C:\Users\YS2714\Dev\EMDK-Android-Samples\SerialCommSample1\app\build\generated\res\resValues\androidTest\debug
+com.symbol.serialcommsample1.test.app-mergeDebugAndroidTestResources-1 C:\Users\YS2714\Dev\EMDK-Android-Samples\SerialCommSample1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.symbol.serialcommsample1.test.app-mergeDebugAndroidTestResources-2 C:\Users\YS2714\Dev\EMDK-Android-Samples\SerialCommSample1\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.symbol.serialcommsample1.test.app-debugAndroidTest-3 C:\Users\YS2714\Dev\EMDK-Android-Samples\SerialCommSample1\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

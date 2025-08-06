@@ -1,0 +1,84 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.symbol.serialcommsample1.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\SerialCommSample1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,149",
+                        "endColumns": "57,55",
+                        "endOffsets": "143,200"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\SerialCommSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "5,3,9,8,11,4,7,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,59,320,273,414,115,225,365",
+                        "endColumns": "52,54,43,45,52,52,46,47",
+                        "endOffsets": "217,109,359,314,462,163,267,408"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,222,277,321,367,420,473,520",
+                        "endColumns": "52,54,43,45,52,52,46,47",
+                        "endOffsets": "217,272,316,362,415,468,515,563"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\SerialCommSample1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "568",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "661"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.symbol.serialcommsample1.app-debug-4:/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\SerialCommSample1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "57",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Wed Aug 06 14:46:37 JST 2025
+base.0=C\:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\SerialCommSample1\\app\\build\\intermediates\\dex\\debugAndroidTest\\mergeProjectDexDebugAndroidTest\\0\\classes.dex
+path.0=0/classes.dex
+renamed.0=classes.dex
