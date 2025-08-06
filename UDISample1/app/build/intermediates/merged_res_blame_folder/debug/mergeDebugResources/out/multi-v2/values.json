@@ -1,0 +1,98 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.symbol.udisample1.app-mergeDebugResources-2:/values/values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\UDISample1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "613",
+                        "endLines": "17",
+                        "endColumns": "12",
+                        "endOffsets": "706"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\UDISample1\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "4,2,3",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "157,57,105",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "198,99,151"
+                    },
+                    "to": {
+                        "startLines": "6,7,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "166,212,259",
+                        "endColumns": "45,46,50",
+                        "endOffsets": "207,254,305"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\UDISample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "2,1,3,4",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "66,17,120,169",
+                        "endColumns": "52,47,47,41",
+                        "endOffsets": "114,60,163,206"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "422,475,523,571",
+                        "endColumns": "52,47,47,41",
+                        "endOffsets": "470,518,566,608"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\UDISample1\\app\\src\\main\\res\\values\\array.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endLines": "5",
+                        "endColumns": "19",
+                        "endOffsets": "166"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "19",
+                        "endOffsets": "161"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\UDISample1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,148",
+                        "endColumns": "56,54",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "9,10",
+                        "startColumns": "4,4",
+                        "startOffsets": "310,367",
+                        "endColumns": "56,54",
+                        "endOffsets": "362,417"
+                    }
+                }
+            ]
+        }
+    ]
+}

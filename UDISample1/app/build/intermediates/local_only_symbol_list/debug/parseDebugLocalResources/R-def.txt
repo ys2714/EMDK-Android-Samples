@@ -1,0 +1,28 @@
+R_DEF: Internal format may change without notice
+local
+array triggerItems
+color colorAccent
+color colorPrimary
+color colorPrimaryDark
+dimen activity_horizontal_margin
+dimen activity_vertical_margin
+id action_settings
+id buttonStartScan
+id scrollView
+id spinnerScannerDevices
+id spinnerTriggers
+id tableView
+id textView
+id textView1
+id textView4
+id textViewStatus
+id textViewType
+layout main
+menu main
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_settings
+string app_name
+string radio_single
+string radio_udi
+style AppTheme

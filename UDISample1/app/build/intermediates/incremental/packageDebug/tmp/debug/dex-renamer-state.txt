@@ -1,0 +1,7 @@
+#Wed Aug 06 15:00:28 JST 2025
+base.0=C\:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\UDISample1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
+base.1=C\:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\UDISample1\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
+path.0=0/classes.dex
+path.1=9/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
