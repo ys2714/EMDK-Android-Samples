@@ -72,7 +72,7 @@ public class MainActivity extends AppCompatActivity implements EMDKManager.EMDKL
 
         nfcIntent = PendingIntent.getActivity(this, 0,
                 new Intent(this, this.getClass())
-                        .addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP), 0);
+                        .addFlags(Intent.FLAG_ACTIVITY_SINGLE_TOP), PendingIntent.FLAG_IMMUTABLE);
 
         //The EMDKManager object will be created and returned in the callback.
         EMDKResults results = EMDKManager.getEMDKManager(getApplicationContext(), this);
