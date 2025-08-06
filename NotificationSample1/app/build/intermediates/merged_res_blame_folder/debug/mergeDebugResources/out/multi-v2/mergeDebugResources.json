@@ -1,0 +1,84 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.symbol.notificationsample1.app-debug-4:/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\NotificationSample1\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "90,148",
+                        "endColumns": "56,54",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,112",
+                        "endColumns": "56,54",
+                        "endOffsets": "107,162"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\NotificationSample1\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "57,195",
+                        "endLines": "5,10",
+                        "endColumns": "12,12",
+                        "endOffsets": "187,353"
+                    },
+                    "to": {
+                        "startLines": "11,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "538,636",
+                        "endLines": "13,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "631,791"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\NotificationSample1\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "4,1,7,8,6,9,3",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "131,17,236,285,187,343,77",
+                        "endColumns": "52,56,47,56,47,54,52",
+                        "endOffsets": "179,69,279,337,230,393,125"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "167,220,277,325,382,430,485",
+                        "endColumns": "52,56,47,56,47,54,52",
+                        "endOffsets": "215,272,320,377,425,480,533"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.symbol.notificationsample1.app-debug-4:/values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\YS2714\\Dev\\EMDK-Android-Samples\\NotificationSample1\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "295",
+                        "endColumns": "57",
+                        "endOffsets": "348"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,172 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:descendantFocusability="beforeDescendants"
+    android:focusableInTouchMode="true"
+    tools:context=".MainActivity" >
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Notification Device" />
+
+        <Spinner
+            android:id="@+id/spnNotificationDevice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Space style="@style/line_space" />
+
+    <LinearLayout
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Select LED Pattern" />
+
+            <Spinner
+                android:id="@+id/spnLEDPattern"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_weight="1"
+            android:gravity="right"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Select LED Color" />
+
+            <Spinner
+                android:id="@+id/spnLEDColor"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+        <Space style="@style/line_space" />
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Select Beep Pattern" />
+
+        <Spinner
+            android:id="@+id/spnBeepPattern"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <Space style="@style/line_space" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Select Vibrate Pattern" />
+
+        <Spinner
+            android:id="@+id/spnVibratePattern"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+
+        <Space style="@style/line_space" />
+
+        <TextView
+            android:id="@+id/txtStatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Status: Please wait.." />
+
+        <Space style="@style/line_space" />
+
+    <LinearLayout
+        android:weightSum="2"
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnNotify"
+            android:layout_weight="1"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnTxtNotify"
+            android:onClick="onClickNotify"
+            android:textSize="15sp" />
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/btnCancelNotification"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:text="@string/btnTxtCancel"
+            android:onClick="onClickCancel"
+            android:textSize="15sp" />
+
+    </LinearLayout>
+
+        <LinearLayout
+            android:weightSum="2"
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/btnDeviceInfo"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/btnTxtDeviceInfo"
+                android:onClick="onClickDeviceInfo"
+                android:textSize="15sp" />
+
+            <Button
+                android:layout_weight="1"
+                android:id="@+id/btnReConnect"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/btnTxtReconnect"
+                android:onClick="onClickReconnect"
+                android:textSize="15sp" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
