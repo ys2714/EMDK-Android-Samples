@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="triggerItems">
+        <item>HARD</item>
+        <item>SOFT</item>
+    </string-array>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <dimen name="activity_horizontal_margin">5dp</dimen>
+    <dimen name="activity_vertical_margin">5dp</dimen>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">MultiBarcodeSample1</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style>
+</resources>

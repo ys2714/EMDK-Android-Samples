@@ -1,10 +1,11 @@
 apply plugin: 'com.android.application'
 android {
-    compileSdkVersion 26
+    compileSdkVersion 36
+    namespace "com.symbol.multibarcodesample1"
     defaultConfig {
         applicationId "com.symbol.multibarcodesample1"
         minSdkVersion 24
-        targetSdkVersion 26
+        targetSdkVersion 33
         versionCode 7
         versionName "7.3.2"
     }
@@ -17,5 +18,5 @@ android {
 }
 
 dependencies {
-    compileOnly 'com.symbol:emdk:+'
+    compileOnly 'com.symbol:emdk:11.0.134'
 }
